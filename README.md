@@ -1,2 +1,2 @@
 # Learning
-I am learning Web Dev
+I am learning Web Dev.
